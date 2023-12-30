@@ -8,7 +8,7 @@ To develop a website to display the cover page design of a book
 clone the github resporistry and create adjango admin interface.
 ### Step 2:
 write HTML and CSS for book cover page and execute it
-###step 3:
+and
 validate the HTML and CSS code
 ## Code:
 HTML CODE.
