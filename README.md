@@ -60,7 +60,8 @@ HTML CODE.
 </html>>
 
 ## Output:
-![Screenshot 2023-12-30 104118](https://github.com/H515piyush/cover-page-design/assets/147472999/8ba65769-f53c-4873-bae7-3f71f9f53ca4)
+
+![Screenshot 2023-12-30 104118](https://github.com/H515piyush/cover-page-design/assets/147472999/66d409ac-0138-435a-83e5-d16d29b22c3e)
 
 
 ## Result:
